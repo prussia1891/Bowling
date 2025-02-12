@@ -26,6 +26,8 @@
 
 ### **Demo Video**
 
+The video was recorded by another device because the screen recording software mistakenly captured the keyboard input.
+
 https://github.com/user-attachments/assets/95fabc22-0e89-4e71-8d9f-bbbb1e142423
 
 
