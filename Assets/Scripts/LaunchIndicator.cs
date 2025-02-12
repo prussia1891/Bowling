@@ -1,7 +1,7 @@
 using Unity.Cinemachine;
 using UnityEngine;
 
-public class LaunchIndicator : MonoBehaviour
+public class ArrowIndicator : MonoBehaviour
 {
     [SerializeField] private CinemachineCamera freeLookCamera;
 
